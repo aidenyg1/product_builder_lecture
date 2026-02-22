@@ -1,28 +1,31 @@
-
-# Lotto Number Generator
+# Project: Lunch Menu Recommendation Blog
 
 ## Overview
 
-This project is a web-based lottery number generator. It provides a user-friendly interface to generate random lottery numbers. The application is built using modern web technologies, including HTML, CSS, and JavaScript, with a focus on a clean, responsive, and visually appealing design.
+This project is a content-focused blog that helps users discover lunch menus and restaurants. The primary goal is to provide valuable, high-quality, and engaging content for users who are wondering what to eat. The site is built with clean HTML, CSS, and minimal JavaScript, prioritizing readability and user experience to meet Google AdSense quality guidelines.
 
-## Design and Features
+## Core Principles (AdSense Alignment)
 
-### Visual Design
+*   **High-Quality Content:** The site will be regularly updated with original articles, reviews, and recommendations. Content will be user-focused, providing real value and answering the user's core question: "What should I eat for lunch?".
+*   **User Experience (UX):** The design is clean, simple, and easy to navigate. The site is fully responsive, ensuring a seamless experience on both mobile and desktop devices. The layout prioritizes content readability.
+*   **Trustworthiness (E-A-T):** The site includes essential pages like "About", "Privacy Policy", and "Terms of Service" to build user trust and demonstrate professionalism.
 
-*   **Aesthetics:** The application features a modern and clean design with a focus on user experience. It incorporates a visually balanced layout, clean spacing, and polished styles.
-*   **Color Palette:** A vibrant and energetic color palette is used to create a visually appealing interface.
-*   **Typography:** Expressive and relevant typography is used to emphasize key information and enhance readability.
-*   **Interactivity:** Interactive elements, such as buttons, have a "glow" effect and drop shadows to provide a sense of depth and interactivity.
-*   **Layout:** The layout is responsive and adapts to different screen sizes, ensuring a seamless experience on both mobile and web devices.
+## Site Structure
 
-### Features
+*   **`index.html`**: The main homepage, designed as a blog feed displaying the latest articles.
+*   **`about.html`**: A page describing the mission and purpose of the website.
+*   **`privacy.html`**: A standard privacy policy page.
+*   **`terms.html`**: A standard terms of service page.
+*   **`style.css`**: A clean, modern stylesheet focused on readability and responsiveness.
+*   **`main.js`**: Reserved for future interactive features. Currently minimal.
 
-*   **Number Generation:** The core feature of the application is the ability to generate a set of unique random numbers for the lottery.
-*   **Interactive UI:** The user interface is designed to be intuitive and easy to use. A single button press triggers the number generation process.
-*   **Visual Feedback:** The generated numbers are displayed in a clear and visually appealing manner, with animations to enhance the user experience.
+## Monetization Strategy
 
-## Current Plan
+*   The primary monetization method will be Google AdSense. Ads will be placed thoughtfully to avoid disrupting the user experience, in full compliance with AdSense placement policies.
+*   `ads.txt` is implemented correctly to declare authorized ad sellers.
 
-*   Create the basic HTML structure for the lottery number generator.
-*   Style the application using modern CSS, including a custom font, a vibrant color scheme, and interactive button effects.
-*   Implement the JavaScript logic to generate and display the lottery numbers.
+## Future Plans
+
+*   Add a "Contact" page with a form for user suggestions and partnership inquiries.
+*   Develop a category system to filter posts by region (e.g., Gangnam, Pangyo) or food type (e.g., Korean, Japanese, Italian).
+*   Implement a search functionality.
